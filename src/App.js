@@ -5,7 +5,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <div className="App-container">
-          {/* Insira o código aqui */}
+          {/* Modifique o style do componente abaixo */}
+          <span style={{ color: 'white', fontWeight:  '400', fontSize: '1rem'}}>
+            Título do projeto
+          </span>
         </div>
       </header>
     </div>
